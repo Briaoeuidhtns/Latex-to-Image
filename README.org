@@ -1,0 +1,3 @@
+* Latex To Image
+
+A Powercord command that returns a link to the equation rendered to an image.

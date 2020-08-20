@@ -1,0 +1,7 @@
+{
+    "name": "LaTeX to image",
+    "version": "0.1.0",
+    "description": "Renders LaTeX using codecogs' service",
+    "author": "Briaoeuidhtns",
+    "license": "MIT"
+}
